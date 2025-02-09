@@ -37,10 +37,10 @@ Navegue até o diretório do projeto:
    pip install beautifulsoup4
 
 ## Estrutura do Projeto
-web-scraping-com-bs4/
-│── books_scraping/ # Planilha com dados coletados
-│── scraping.py # Arquivo principal do projeto
-│── README.md # Documentação do projeto
+web-scraping-com-bs4/ <br>
+│── books_scraping/ # Planilha com dados coletados <br>
+│── scraping.py # Arquivo principal do projeto <br>
+│── README.md # Documentação do projeto <br>
 
 🚀 Como Executar
 
