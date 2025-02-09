@@ -22,7 +22,7 @@ Este aplicativo é um CRUD simples desenvolvido com Python e Tkinter para avalia
 
 - **Tecnologias utilizadas**: Python, SQLlite, CustomTkinter e PIL
 
-- 🤖 [Web Scraping](https://github.com/silvio-a-netto/portfolio/tree/main/web%20scraping%20com%20bs4)
+ 🤖 [Web Scraping](https://github.com/silvio-a-netto/portfolio/tree/main/web%20scraping%20com%20bs4)
 Este é um script em Python para realizar web scraping no site Books to Scrape e extrair informações sobre livros, incluindo título e preço. Os dados coletados são armazenados em um arquivo CSV para análise posterior.
 
 - **Tecnologias utilizadas**: Python 3.x, Requests, BeautifulSoup4 e Pandas
