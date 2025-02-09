@@ -30,6 +30,12 @@ localizacao, tamanho_do_imovel, aluguel, segurança, beleza, postos_de_saude, es
 localizacao_two, tamanho_do_imovel_two, aluguel_two, segurança_two, beleza_two, postos_de_saude_two, escola_two, mercado_two, hospital_two, area_verde_two (REAL) - Notas de 0 a 10 para os mesmos critérios, mas considerando uma comparação com outro imóvel (por exemplo, a "esposa").
 avaliacao_final (REAL) - Média das avaliações, calculada com base nos critérios.
 
+## Estrutura do Projeto
+Alocação-de-casa/
+│── img/ # Pasta contendo as imagens utilizadas
+│── main.py # Arquivo principal do projeto
+│── README.md # Documentação do projeto
+
 ## Requisitos
 
 - Python 3.x
