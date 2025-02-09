@@ -34,7 +34,7 @@ python music_player.py
 my-music-player/
 │── img/ # Pasta contendo as capas das músicas
 │── music/ # Pasta contendo os arquivos de música (.mp3)
-│── music_player.py # Arquivo principal do projeto
+│── main.py # Arquivo principal do projeto
 │── README.md # Documentação do projeto
 
 ## Controles
