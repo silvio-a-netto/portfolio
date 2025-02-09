@@ -1,46 +1,64 @@
-# My Music Player
+My Music Player
 
-## Descrição
 My Music Player é um projeto de um reprodutor de música desenvolvido em Python, utilizando as bibliotecas Pygame (mixer), CustomTkinter, Threading e PIL. O aplicativo permite reproduzir, pausar e navegar entre faixas musicais, além de exibir a capa do álbum correspondente.
 
-## Funcionalidades
+📌 Funcionalidades
+
 - Reproduzir e pausar músicas.
 - Exibir a capa do álbum da faixa em execução.
 - Pular para a próxima faixa ou retornar à faixa anterior.
 - Ajustar o volume da música.
 - Barra de progresso para indicar o tempo da música.
 
-## Tecnologias Utilizadas
+📋 Tecnologias Utilizadas
+
 - Python
 - Tkinter & CustomTkinter - Interface Gráfica
 - Pygame (mixer) - Reprodução de áudio
 - PIL (Pillow) - Manipulação de imagens
 - Threading - Execução de tarefas em segundo plano
 
-## Instalação e Execução
+🛠️ Instalação e Configuração
 
-### 1. Clone o repositório
-```bash
-git clone https://github.com/silvio-a-netto/my-music-player.git
-cd my-music-player
+Clone este repositório:
 
-## Instalando as dependências
-pip install pygame customtkinter pillow
+   git clone https://github.com/silvio-a-netto/portfolio.git
 
-## Execute o programa
-python music_player.py
+Navegue até o diretório do projeto:
 
-## Estrutura do Projeto
-my-music-player/
-│── img/ # Pasta contendo as capas das músicas
-│── music/ # Pasta contendo os arquivos de música (.mp3)
-│── main.py # Arquivo principal do projeto
-│── README.md # Documentação do projeto
+   cd My Music Player
 
-## Controles
-Play: Inicia a reprodução da música.
-Skip Forward (>): Avança para a próxima música.
-Skip Back (<): Retorna à faixa anterior.
-Slider de Volume: Ajusta o volume da reprodução.
+## Instale as dependências necessárias: 
 
+   pip install pygame <br>
+   pip install customtkinter <br>
+   pip install pillow <br>
 
+📂 Estrutura do Projeto
+my-music-player/ <br>
+│── img/ # Pasta contendo as capas das músicas <br>
+│── music/ # Pasta contendo os arquivos de música (.mp3) <br>
+│── main.py # Arquivo principal do projeto <br>
+│── README.md # Documentação do projeto <br>
+
+🚀 Como Executar
+
+Basta rodar o seguinte comando no terminal:
+
+   python main.py
+
+🎮 Controles <br>
+Play: Inicia a reprodução da música. <br>
+Skip Forward (>): Avança para a próxima música. <br>
+Skip Back (<): Retorna à faixa anterior. <br>
+Slider de Volume: Ajusta o volume da reprodução. <br>
+
+📝 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+👤 Autor
+
+- **E-mail**: silvio.alex.netto@gmail.com
+- **LinkedIn**: [linkedin.com/in/silvio-alexandre](https://www.linkedin.com/in/silvio-alexandre-1a8088312/)
+- **GitHub**: [github.com/silvio-a-netto](https://github.com/silvio-a-netto)
